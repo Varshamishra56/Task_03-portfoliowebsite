@@ -3,7 +3,7 @@
   box-sizing: border-box; /* Ensure padding and border are included in width and height */
 }
 html {
-  background-color: black;
+  background-color: #1a1a1a;
   overflow-x: hidden; /* Prevent horizontal overflow */
 }
 
