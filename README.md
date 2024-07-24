@@ -2,7 +2,7 @@
 
 Welcome to the repository for my personal portfolio website. This project showcases my skills, projects, and experiences as an aspiring developer in the field of artificial intelligence and web development.
 
-![Portfolio Screenshot](PortfolioVideo.mp4)
+![Portfolio Video](PortfolioVideo.mp4)
 
 ## Table of Contents
 
