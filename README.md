@@ -55,6 +55,6 @@ Push to the Branch (git push origin feature/AmazingFeature)
 Open a Pull Request**
 
 ## Contact
-Varsha Mishra - ![vm0222912@gmail.com]
+Varsha Mishra - [vm0222912@gmail.com]
 
-Project Link: ![https://github.com/Varshamishra56/portfolio-website]
+Project Link: [https://github.com/Varshamishra56/portfolio-website]
